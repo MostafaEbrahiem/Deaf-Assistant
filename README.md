@@ -3,7 +3,9 @@ An application to help deaf people to know what is the person in front of them i
 
 simple imagination of the idea 
 
-///////////////////////////////
+
+https://user-images.githubusercontent.com/88105870/136698652-2a30a75d-8ce8-4b13-ae0b-e9a9dca339c1.mp4
+
 
 
 screen shots 
